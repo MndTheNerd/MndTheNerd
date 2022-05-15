@@ -9,8 +9,8 @@ I've been learning many programming languages on different platforms and testing
 * 🌍  I'm based in Kuwait
 * 🖥️  See my portfolio at [MyWebsite](http://www.mndthenerd.com)
 * ✉️  You can contact me at [Mndthenerd@gmail.com](mailto:Mndthenerd@gmail.com)
-* 🚀  I'm currently working on [E-Commerce cross-platform app](http://github.com/MndTheNerd)
-* 🧠  I'm learning Flutter
+* 🚀  I'm currently working on E-Commerce cross-platform app
+* 🧠  I'm learning Flutter with Bloc architecture
 * 🤝  I'm open to collaborating on simple projects
 * ⚡  I am interested in ethical hacking, gaming and content creation.
 
