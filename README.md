@@ -12,7 +12,7 @@ I've been learning many programming languages on different platforms and testing
 * 🚀  I'm currently working on E-Commerce cross-platform app
 * 🧠  I'm learning Flutter with Bloc architecture
 * 🤝  I'm open to collaborating on simple projects
-* ⚡  I am interested in ethical hacking, gaming and content creation.
+* ⚡  I am interested in Ethical hacking, Gaming and Content Creation.
 
 <a href="https://www.twitter.com/mndthenerd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mndthenerd?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
